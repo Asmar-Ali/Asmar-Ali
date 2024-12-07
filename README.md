@@ -2,7 +2,7 @@
 
 Hello World! 👋
 I'm Asmar Ali, a passionate Full Stack Developer with a strong foundation in building scalable and efficient applications.
-Tech Stack 🚀
+Tech Stack 🚀 \n
 Frontend:
 React.js
 Next.js
