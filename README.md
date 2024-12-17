@@ -30,8 +30,8 @@ I'm **Asmar Ali**, a passionate **Full Stack Developer** dedicated to building s
 
 ## 🔭 Currently Working On  
 Developing **scalable and efficient full-stack applications** using:  
-- **Frontend**: React.js, Next.js  
-- **Backend**: Node.js, MongoDB  
+- **Frontend**: React.js, Next.js , Three.js , Chart.js , Tailwind
+- **Backend**: Node.js, Express.js, Nest.js , MySQL, PostgreSQL, MongoDB  
 
 ---
 
