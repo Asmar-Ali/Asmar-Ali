@@ -16,6 +16,7 @@ I'm **Asmar Ali**, a passionate **Full Stack Developer** dedicated to building s
 ### **Backend**  
 - Node.js  
 - Nest.js  
+- Golang  
 - Express.js  
 - MongoDB  
 - SQL  
