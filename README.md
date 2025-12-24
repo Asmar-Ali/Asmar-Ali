@@ -1,56 +1,25 @@
-# Hello World! 👋  
-I'm **Asmar Ali**, a passionate **Full Stack Developer** dedicated to building scalable and efficient applications.
+Senior Software Engineer | Distributed Systems & Cloud Architecture
 
----
+I specialize in designing and implementing high-scale distributed systems that drive business growth. My focus is on architectural resilience, pragmatic system design, and bridging the gap between complex technical requirements and product goals. I have architected infrastructure for SaaS platforms supporting 40k+ active users and successfully executed legacy migrations to Serverless architectures.
 
-## 💻 Tech Stack 🚀
 
-### **Frontend**  
-- React.js  
-- Next.js  
-- JavaScript (ES6+)  
-- TypeScript  
-- Tailwind CSS  
-- Three.js  
+Engineering Highlights
+System Scale & Performance
 
-### **Backend**  
-- Node.js  
-- Nest.js  
-- Golang  
-- Express.js  
-- MongoDB  
-- SQL  
-- Microservices  
+Architected core infrastructure for high-growth platforms generating $1M ARR, ensuring high availability for mission-critical flows.
 
-### **Other Skills**  
-- AWS Lambda, API Gateway, SQS, EC2, ECS, RDS  
-- Azure App Service  
-- Firebase  
+Engineered real-time state synchronization engines with distributed indexing to enable sub-second data retrieval.
 
----
+Implemented high-performance hot-stores using Redis, reducing P95 API latency by 60% for global users.
 
-## 🔭 Currently Working On  
-Developing **scalable and efficient full-stack applications** using:  
-- **Frontend**: React.js, Next.js , Three.js , Chart.js , Tailwind
-- **Backend**: Node.js, Express.js, Nest.js , MySQL, PostgreSQL, MongoDB  
+Reliability & Event-Driven Design
 
----
+Designed fault-tolerant data pipelines using RabbitMQ to process high-volume system events, achieving 99.99% reliability.
 
-## 💬 Ask Me About  
-- Full-stack development using modern frameworks and tools  
-- System design and microservices architecture  
-- Best practices for building scalable and efficient web applications  
-- Integrating AI into web applications  
+Built domain-driven microservices focused on clean architecture, deployed via AWS ECS Fargate for independent scalability.
 
----
+Legacy Modernization & DevOps
 
-## 📫 How to Reach Me  
-- **Email**: [asmarali1929@gmail.com](mailto:asmarali1929@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/asmar-ali](https://www.linkedin.com/in/asmar-ali/)  
+Executed the migration of legacy monolithic codebases to scalable AWS Serverless architectures, delivering 150+ RESTful endpoints.
 
----
-
-## ⚡ Fun Fact  
-I'm passionate about building **innovative and scalable web applications** that positively impact people's lives.  
-
-Feel free to reach out if you have any questions or want to collaborate on a project! 🚀  
+Engineered end-to-end observability suites with structured logging and the ELK Stack, utilizing distributed tracing to reduce MTTR by 40%.
