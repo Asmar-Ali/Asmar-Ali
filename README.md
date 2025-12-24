@@ -1,7 +1,7 @@
 # Asmar Ali
 **Senior Software Engineer | Distributed Systems & Cloud Architecture**
 
-I specialize in designing and implementing high-scale distributed systems that drive business growth. My focus is on architectural resilience, pragmatic system design, and bridging the gap between complex technical requirements and product goals. I have architected infrastructure for SaaS platforms supporting 40k+ active users and successfully executed legacy migrations to Serverless architectures.
+I specialize in designing and implementing high-scale distributed systems that drive business growth. My focus is on architectural resilience, pragmatic system design, and bridging the gap between complex technical requirements and product goals. I have architected infrastructure for SaaS platforms supporting 100k+ active users and successfully executed legacy migrations to Serverless architectures.
 
 ### Engineering Highlights
 
