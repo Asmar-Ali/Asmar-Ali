@@ -22,10 +22,10 @@ I specialize in designing and implementing high-scale distributed systems that d
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, Node.js, Python, Go |
-| **Data** | PostgreSQL, MongoDB, Redis, DynamoDB |
-| **Messaging** | RabbitMQ, SQS/SNS, Kafka |
-| **DevOps** | AWS (ECS, Lambda, Gateway), Docker, Terraform, GitHub Actions |
+| **Core Stack** | TypeScript, Node.js, Express.js, Nest.js, Python, Golang |
+| **Data** | PostgreSQL, MongoDB, Redis, DynamoDB, RabbitMQ, Kafka, AWS SQS |
+| **Architecture** | Distributed Systems, Clean Architecture, Microservices, Serverless |
+| **DevOps** | AWS (ECS, Lambda, Gateway), Docker, Terraform, GitHub Actions, Unit/Integration/E2E Testing|
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/asmar-ali/) | [Portfolio](https://asmarali.vercel.app/) | [Email](mailto:asmarali1929@gmail.com)
