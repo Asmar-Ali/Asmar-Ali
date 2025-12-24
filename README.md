@@ -1,10 +1,11 @@
-Senior Software Engineer | Distributed Systems & Cloud Architecture
+**Senior Software Engineer | Distributed Systems & Cloud Architecture**
 
 I specialize in designing and implementing high-scale distributed systems that drive business growth. My focus is on architectural resilience, pragmatic system design, and bridging the gap between complex technical requirements and product goals. I have architected infrastructure for SaaS platforms supporting 40k+ active users and successfully executed legacy migrations to Serverless architectures.
 
 
-Engineering Highlights
-System Scale & Performance
+**Engineering Highlights:**
+
+****System Scale & Performance****
 
 Architected core infrastructure for high-growth platforms generating $1M ARR, ensuring high availability for mission-critical flows.
 
